@@ -1,0 +1,2 @@
+# sluralpright
+# clone of pluralsight
